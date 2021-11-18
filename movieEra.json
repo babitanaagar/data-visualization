@@ -1,0 +1,1146 @@
+[
+  {
+    "name": "Blue Collar",
+    "year": 1978,
+    "count": 158,
+    "runningTime": 114,
+    "rate": 1.39,
+    "era": 1978
+  },
+  {
+    "name": "Scarface",
+    "year": 1983,
+    "count": 207,
+    "runningTime": 170,
+    "rate": 1.22,
+    "era": "1980-90"
+  },
+  {
+    "name": "Platoon",
+    "year": 1986,
+    "count": 159,
+    "runningTime": 120,
+    "rate": 1.32,
+    "era": "1980-90"
+  },
+  {
+    "name": "Eddie Murphy Raw",
+    "year": 1987,
+    "count": 223,
+    "runningTime": 90,
+    "rate": 2.48,
+    "era": "1980-90"
+  },
+  {
+    "name": "Do the Right Thing",
+    "year": 1989,
+    "count": 240,
+    "runningTime": 120,
+    "rate": 2,
+    "era": "1980-90"
+  },
+  {
+    "name": "Born on the Fourth of July",
+    "year": 1989,
+    "count": 196,
+    "runningTime": 145,
+    "rate": 1.35,
+    "era": "1980-90"
+  },
+  {
+    "name": "Goodfellas",
+    "year": 1990,
+    "count": 300,
+    "runningTime": 146,
+    "rate": 2.05,
+    "era": "1980-90"
+  },
+  {
+    "name": "State of Grace",
+    "year": 1990,
+    "count": 230,
+    "runningTime": 134,
+    "rate": 1.72,
+    "era": "1980-90"
+  },
+  {
+    "name": "The Commitments",
+    "year": 1991,
+    "count": 169,
+    "runningTime": 118,
+    "rate": 1.43,
+    "era": "1991-00"
+  },
+  {
+    "name": "Reservoir Dogs",
+    "year": 1992,
+    "count": 269,
+    "runningTime": 99,
+    "rate": 2.72,
+    "era": "1991-00"
+  },
+  {
+    "name": "Hoffa",
+    "year": 1992,
+    "count": 150,
+    "runningTime": 140,
+    "rate": 1.07,
+    "era": "1991-00"
+  },
+  {
+    "name": "Menace II Society",
+    "year": 1993,
+    "count": 300,
+    "runningTime": 97,
+    "rate": 3.09,
+    "era": "1991-00"
+  },
+  {
+    "name": "True Romance",
+    "year": 1993,
+    "count": 234,
+    "runningTime": 118,
+    "rate": 1.98,
+    "era": "1991-00"
+  },
+  {
+    "name": "A Bronx Tale",
+    "year": 1993,
+    "count": 200,
+    "runningTime": 120,
+    "rate": 1.67,
+    "era": "1991-00"
+  },
+  {
+    "name": "Poetic Justice",
+    "year": 1993,
+    "count": 175,
+    "runningTime": 109,
+    "rate": 1.6,
+    "era": "1991-00"
+  },
+  {
+    "name": "Blood In Blood Out[e]",
+    "year": 1993,
+    "count": 163,
+    "runningTime": 190,
+    "rate": 0.86,
+    "era": "1991-00"
+  },
+  {
+    "name": "In the Name of the Father",
+    "year": 1993,
+    "count": 151,
+    "runningTime": 133,
+    "rate": 1.13,
+    "era": "1991-00"
+  },
+  {
+    "name": "Pulp Fiction",
+    "year": 1994,
+    "count": 265,
+    "runningTime": 154,
+    "rate": 1.72,
+    "era": "1991-00"
+  },
+  {
+    "name": "Casino",
+    "year": 1995,
+    "count": 422,
+    "runningTime": 178,
+    "rate": 2.4,
+    "era": "1991-00"
+  },
+  {
+    "name": "Clockers",
+    "year": 1995,
+    "count": 185,
+    "runningTime": 128,
+    "rate": 1.44,
+    "era": "1991-00"
+  },
+  {
+    "name": "Four Rooms",
+    "year": 1995,
+    "count": 168,
+    "runningTime": 98,
+    "rate": 1.71,
+    "era": "1991-00"
+  },
+  {
+    "name": "Dead Presidents",
+    "year": 1995,
+    "count": 157,
+    "runningTime": 119,
+    "rate": 1.32,
+    "era": "1991-00"
+  },
+  {
+    "name": "Ten Benny",
+    "year": 1996,
+    "count": 190,
+    "runningTime": 108,
+    "rate": 1.76,
+    "era": "1991-00"
+  },
+  {
+    "name": "Nil by Mouth",
+    "year": 1997,
+    "count": 428,
+    "runningTime": 128,
+    "rate": 3.34,
+    "era": "1991-00"
+  },
+  {
+    "name": "Twin Town",
+    "year": 1997,
+    "count": 318,
+    "runningTime": 99,
+    "rate": 3.21,
+    "era": "1991-00"
+  },
+  {
+    "name": "Gridlock'd",
+    "year": 1997,
+    "count": 227,
+    "runningTime": 91,
+    "rate": 2.49,
+    "era": "1991-00"
+  },
+  {
+    "name": "Suicide Kings",
+    "year": 1997,
+    "count": 222,
+    "runningTime": 106,
+    "rate": 2.09,
+    "era": "1991-00"
+  },
+  {
+    "name": "Donnie Brasco",
+    "year": 1997,
+    "count": 172,
+    "runningTime": 127,
+    "rate": 1.35,
+    "era": "1991-00"
+  },
+  {
+    "name": "Gang Related",
+    "year": 1997,
+    "count": 165,
+    "runningTime": 110,
+    "rate": 1.5,
+    "era": "1991-00"
+  },
+  {
+    "name": "Boogie Nights",
+    "year": 1997,
+    "count": 164,
+    "runningTime": 155,
+    "rate": 1.06,
+    "era": "1991-00"
+  },
+  {
+    "name": "Good Will Hunting",
+    "year": 1997,
+    "count": 154,
+    "runningTime": 126,
+    "rate": 1.22,
+    "era": "1991-00"
+  },
+  {
+    "name": "Another Day in Paradise",
+    "year": 1998,
+    "count": 291,
+    "runningTime": 101,
+    "rate": 2.88,
+    "era": "1991-00"
+  },
+  {
+    "name": "The Big Lebowski",
+    "year": 1998,
+    "count": 281,
+    "runningTime": 117,
+    "rate": 2.4,
+    "era": "1991-00"
+  },
+  {
+    "name": "My Name Is Joe",
+    "year": 1998,
+    "count": 230,
+    "runningTime": 105,
+    "rate": 2.19,
+    "era": "1991-00"
+  },
+  {
+    "name": "American History X",
+    "year": 1998,
+    "count": 214,
+    "runningTime": 119,
+    "rate": 1.8,
+    "era": "1991-00"
+  },
+  {
+    "name": "Monument Ave.",
+    "year": 1998,
+    "count": 210,
+    "runningTime": 93,
+    "rate": 2.26,
+    "era": "1991-00"
+  },
+  {
+    "name": "I Got the Hook Up",
+    "year": 1998,
+    "count": 197,
+    "runningTime": 93,
+    "rate": 2.12,
+    "era": "1991-00"
+  },
+  {
+    "name": "Belly",
+    "year": 1998,
+    "count": 186,
+    "runningTime": 92,
+    "rate": 2.02,
+    "era": "1991-00"
+  },
+  {
+    "name": "Slam",
+    "year": 1998,
+    "count": 176,
+    "runningTime": 100,
+    "rate": 1.76,
+    "era": "1991-00"
+  },
+  {
+    "name": "Summer of Sam",
+    "year": 1999,
+    "count": 435,
+    "runningTime": 142,
+    "rate": 3.06,
+    "era": "1991-00"
+  },
+  {
+    "name": "The Boondock Saints",
+    "year": 1999,
+    "count": 239,
+    "runningTime": 108,
+    "rate": 2.21,
+    "era": "1991-00"
+  },
+  {
+    "name": "Black and White",
+    "year": 1999,
+    "count": 215,
+    "runningTime": 98,
+    "rate": 2.19,
+    "era": "1991-00"
+  },
+  {
+    "name": "Magnolia",
+    "year": 1999,
+    "count": 190,
+    "runningTime": 188,
+    "rate": 1.01,
+    "era": "1991-00"
+  },
+  {
+    "name": "Flawless",
+    "year": 1999,
+    "count": 178,
+    "runningTime": 112,
+    "rate": 1.59,
+    "era": "1991-00"
+  },
+  {
+    "name": "Human Traffic",
+    "year": 1999,
+    "count": 174,
+    "runningTime": 99,
+    "rate": 1.76,
+    "era": "1991-00"
+  },
+  {
+    "name": "The Blair Witch Project",
+    "year": 1999,
+    "count": 154,
+    "runningTime": 81,
+    "rate": 1.9,
+    "era": "1991-00"
+  },
+  {
+    "name": "The Original Kings of Comedy",
+    "year": 2000,
+    "count": 213,
+    "runningTime": 115,
+    "rate": 1.85,
+    "era": "1991-00"
+  },
+  {
+    "name": "Tigerland",
+    "year": 2000,
+    "count": 173,
+    "runningTime": 101,
+    "rate": 1.71,
+    "era": "1991-00"
+  },
+  {
+    "name": "Backstage",
+    "year": 2000,
+    "count": 170,
+    "runningTime": 86,
+    "rate": 1.98,
+    "era": "1991-00"
+  },
+  {
+    "name": "Snatch",
+    "year": 2000,
+    "count": 159,
+    "runningTime": 102,
+    "rate": 1.56,
+    "era": "1991-00"
+  },
+  {
+    "name": "Boiler Room",
+    "year": 2000,
+    "count": 153,
+    "runningTime": 120,
+    "rate": 1.27,
+    "era": "1991-00"
+  },
+  {
+    "name": "Made",
+    "year": 2001,
+    "count": 291,
+    "runningTime": 94,
+    "rate": 3.09,
+    "era": "2001-10"
+  },
+  {
+    "name": "Bully",
+    "year": 2001,
+    "count": 274,
+    "runningTime": 114,
+    "rate": 2.4,
+    "era": "2001-10"
+  },
+  {
+    "name": "Jay and Silent Bob Strike Back",
+    "year": 2001,
+    "count": 248,
+    "runningTime": 104,
+    "rate": 2.38,
+    "era": "2001-10"
+  },
+  {
+    "name": "The 51st State [d]",
+    "year": 2001,
+    "count": 180,
+    "runningTime": 92,
+    "rate": 1.96,
+    "era": "2001-10"
+  },
+  {
+    "name": "Smokin' Stogies",
+    "year": 2001,
+    "count": 151,
+    "runningTime": 98,
+    "rate": 1.54,
+    "era": "2001-10"
+  },
+  {
+    "name": "Sweet Sixteen",
+    "year": 2002,
+    "count": 313,
+    "runningTime": 106,
+    "rate": 2.95,
+    "era": "2001-10"
+  },
+  {
+    "name": "Martin Lawrence Live: Runteldat",
+    "year": 2002,
+    "count": 311,
+    "runningTime": 113,
+    "rate": 2.75,
+    "era": "2001-10"
+  },
+  {
+    "name": "Narc",
+    "year": 2002,
+    "count": 297,
+    "runningTime": 105,
+    "rate": 2.83,
+    "era": "2001-10"
+  },
+  {
+    "name": "Empire",
+    "year": 2002,
+    "count": 236,
+    "runningTime": 90,
+    "rate": 2.62,
+    "era": "2001-10"
+  },
+  {
+    "name": "Spun",
+    "year": 2002,
+    "count": 203,
+    "runningTime": 101,
+    "rate": 2.01,
+    "era": "2001-10"
+  },
+  {
+    "name": "8 Mile",
+    "year": 2002,
+    "count": 200,
+    "runningTime": 110,
+    "rate": 1.82,
+    "era": "2001-10"
+  },
+  {
+    "name": "All About the Benjamins",
+    "year": 2002,
+    "count": 151,
+    "runningTime": 98,
+    "rate": 1.54,
+    "era": "2001-10"
+  },
+  {
+    "name": "Ash Wednesday",
+    "year": 2002,
+    "count": 151,
+    "runningTime": 99,
+    "rate": 1.52,
+    "era": "2001-10"
+  },
+  {
+    "name": "Dysfunktional Family",
+    "year": 2003,
+    "count": 200,
+    "runningTime": 89,
+    "rate": 2.25,
+    "era": "2001-10"
+  },
+  {
+    "name": "Overnight",
+    "year": 2003,
+    "count": 191,
+    "runningTime": 82,
+    "rate": 2.33,
+    "era": "2001-10"
+  },
+  {
+    "name": "Monster",
+    "year": 2003,
+    "count": 187,
+    "runningTime": 109,
+    "rate": 1.71,
+    "era": "2001-10"
+  },
+  {
+    "name": "Bad Santa",
+    "year": 2003,
+    "count": 173,
+    "runningTime": 91,
+    "rate": 1.9,
+    "era": "2001-10"
+  },
+  {
+    "name": "Death of a Dynasty",
+    "year": 2003,
+    "count": 167,
+    "runningTime": 92,
+    "rate": 1.81,
+    "era": "2001-10"
+  },
+  {
+    "name": "Intermission",
+    "year": 2003,
+    "count": 155,
+    "runningTime": 102,
+    "rate": 1.52,
+    "era": "2001-10"
+  },
+  {
+    "name": "Bad Boys II",
+    "year": 2003,
+    "count": 153,
+    "runningTime": 147,
+    "rate": 1.04,
+    "era": "2001-10"
+  },
+  {
+    "name": "Layer Cake",
+    "year": 2004,
+    "count": 210,
+    "runningTime": 105,
+    "rate": 2,
+    "era": "2001-10"
+  },
+  {
+    "name": "Fuck (documentary)",
+    "year": 2005,
+    "count": 857,
+    "runningTime": 93,
+    "rate": 9.21,
+    "era": "2001-10"
+  },
+  {
+    "name": "Dirty",
+    "year": 2005,
+    "count": 280,
+    "runningTime": 97,
+    "rate": 2.89,
+    "era": "2001-10"
+  },
+  {
+    "name": "Jarhead",
+    "year": 2005,
+    "count": 278,
+    "runningTime": 123,
+    "rate": 2.26,
+    "era": "2001-10"
+  },
+  {
+    "name": "State Property 2",
+    "year": 2005,
+    "count": 271,
+    "runningTime": 94,
+    "rate": 2.88,
+    "era": "2001-10"
+  },
+  {
+    "name": "The Devil's Rejects",
+    "year": 2005,
+    "count": 224,
+    "runningTime": 109,
+    "rate": 2.06,
+    "era": "2001-10"
+  },
+  {
+    "name": "Hustle & Flow",
+    "year": 2005,
+    "count": 186,
+    "runningTime": 116,
+    "rate": 1.6,
+    "era": "2001-10"
+  },
+  {
+    "name": "Get Rich or Die Tryin'",
+    "year": 2005,
+    "count": 185,
+    "runningTime": 117,
+    "rate": 1.58,
+    "era": "2001-10"
+  },
+  {
+    "name": "Alpha Dog",
+    "year": 2006,
+    "count": 367,
+    "runningTime": 117,
+    "rate": 3.14,
+    "era": "2001-10"
+  },
+  {
+    "name": "Running Scared",
+    "year": 2006,
+    "count": 315,
+    "runningTime": 122,
+    "rate": 2.58,
+    "era": "2001-10"
+  },
+  {
+    "name": "Harsh Times",
+    "year": 2006,
+    "count": 296,
+    "runningTime": 116,
+    "rate": 2.55,
+    "era": "2001-10"
+  },
+  {
+    "name": "The Departed",
+    "year": 2006,
+    "count": 237,
+    "runningTime": 151,
+    "rate": 1.57,
+    "era": "2001-10"
+  },
+  {
+    "name": "Clerks II",
+    "year": 2006,
+    "count": 150,
+    "runningTime": 97,
+    "rate": 1.55,
+    "era": "2001-10"
+  },
+  {
+    "name": "Rise of the Footsoldier",
+    "year": 2007,
+    "count": 285,
+    "runningTime": 119,
+    "rate": 2.39,
+    "era": "2001-10"
+  },
+  {
+    "name": "Superbad",
+    "year": 2007,
+    "count": 176,
+    "runningTime": 113,
+    "rate": 1.56,
+    "era": "2001-10"
+  },
+  {
+    "name": "Grindhouse",
+    "year": 2007,
+    "count": 169,
+    "runningTime": 191,
+    "rate": 0.88,
+    "era": "2001-10"
+  },
+  {
+    "name": "One Day Removals",
+    "year": 2008,
+    "count": 320,
+    "runningTime": 85,
+    "rate": 3.76,
+    "era": "2001-10"
+  },
+  {
+    "name": "Pride and Glory",
+    "year": 2008,
+    "count": 291,
+    "runningTime": 130,
+    "rate": 2.24,
+    "era": "2001-10"
+  },
+  {
+    "name": "Zack and Miri Make a Porno",
+    "year": 2008,
+    "count": 219,
+    "runningTime": 102,
+    "rate": 2.15,
+    "era": "2001-10"
+  },
+  {
+    "name": "Pineapple Express",
+    "year": 2008,
+    "count": 175,
+    "runningTime": 112,
+    "rate": 1.56,
+    "era": "2001-10"
+  },
+  {
+    "name": "Soul Men",
+    "year": 2008,
+    "count": 151,
+    "runningTime": 100,
+    "rate": 1.51,
+    "era": "2001-10"
+  },
+  {
+    "name": "Next Day Air",
+    "year": 2009,
+    "count": 193,
+    "runningTime": 84,
+    "rate": 2.3,
+    "era": "2001-10"
+  },
+  {
+    "name": "Crank: High Voltage",
+    "year": 2009,
+    "count": 164,
+    "runningTime": 96,
+    "rate": 1.71,
+    "era": "2001-10"
+  },
+  {
+    "name": "Notorious",
+    "year": 2009,
+    "count": 154,
+    "runningTime": 123,
+    "rate": 1.25,
+    "era": "2001-10"
+  },
+  {
+    "name": "Funny People",
+    "year": 2009,
+    "count": 154,
+    "runningTime": 146,
+    "rate": 1.05,
+    "era": "2001-10"
+  },
+  {
+    "name": "Brooklyn's Finest",
+    "year": 2010,
+    "count": 270,
+    "runningTime": 132,
+    "rate": 2.04,
+    "era": "2001-10"
+  },
+  {
+    "name": "Hot Tub Time Machine",
+    "year": 2010,
+    "count": 212,
+    "runningTime": 99,
+    "rate": 2.14,
+    "era": "2001-10"
+  },
+  {
+    "name": "The Town",
+    "year": 2010,
+    "count": 155,
+    "runningTime": 124,
+    "rate": 1.25,
+    "era": "2001-10"
+  },
+  {
+    "name": "30 Minutes or Less",
+    "year": 2011,
+    "count": 218,
+    "runningTime": 83,
+    "rate": 2.63,
+    "era": "2011-20"
+  },
+  {
+    "name": "End of Watch",
+    "year": 2012,
+    "count": 326,
+    "runningTime": 109,
+    "rate": 2.99,
+    "era": "2011-20"
+  },
+  {
+    "name": "Goon",
+    "year": 2012,
+    "count": 231,
+    "runningTime": 92,
+    "rate": 2.51,
+    "era": "2011-20"
+  },
+  {
+    "name": "Killing Them Softly",
+    "year": 2012,
+    "count": 193,
+    "runningTime": 97,
+    "rate": 1.99,
+    "era": "2011-20"
+  },
+  {
+    "name": "Project X",
+    "year": 2012,
+    "count": 175,
+    "runningTime": 88,
+    "rate": 1.99,
+    "era": "2011-20"
+  },
+  {
+    "name": "The Grey",
+    "year": 2012,
+    "count": 161,
+    "runningTime": 117,
+    "rate": 1.38,
+    "era": "2011-20"
+  },
+  {
+    "name": "Magic Mike",
+    "year": 2012,
+    "count": 156,
+    "runningTime": 110,
+    "rate": 1.42,
+    "era": "2011-20"
+  },
+  {
+    "name": "That's My Boy",
+    "year": 2012,
+    "count": 156,
+    "runningTime": 114,
+    "rate": 1.37,
+    "era": "2011-20"
+  },
+  {
+    "name": "The Wolf of Wall Street",
+    "year": 2013,
+    "count": 569,
+    "runningTime": 180,
+    "rate": 3.16,
+    "era": "2011-20"
+  },
+  {
+    "name": "This Is The End",
+    "year": 2013,
+    "count": 200,
+    "runningTime": 107,
+    "rate": 1.87,
+    "era": "2011-20"
+  },
+  {
+    "name": "21 and Over",
+    "year": 2013,
+    "count": 162,
+    "runningTime": 93,
+    "rate": 1.74,
+    "era": "2011-20"
+  },
+  {
+    "name": "Lone Survivor",
+    "year": 2013,
+    "count": 161,
+    "runningTime": 121,
+    "rate": 1.33,
+    "era": "2011-20"
+  },
+  {
+    "name": "The Heat",
+    "year": 2013,
+    "count": 158,
+    "runningTime": 117,
+    "rate": 1.35,
+    "era": "2011-20"
+  },
+  {
+    "name": "Swearnet: The Movie",
+    "year": 2014,
+    "count": 935,
+    "runningTime": 112,
+    "rate": 8.35,
+    "era": "2011-20"
+  },
+  {
+    "name": "22 Jump Street",
+    "year": 2014,
+    "count": 200,
+    "runningTime": 112,
+    "rate": 1.78,
+    "era": "2011-20"
+  },
+  {
+    "name": "Sabotage",
+    "year": 2014,
+    "count": 196,
+    "runningTime": 109,
+    "rate": 1.8,
+    "era": "2011-20"
+  },
+  {
+    "name": "Straight Outta Compton",
+    "year": 2015,
+    "count": 392,
+    "runningTime": 167,
+    "rate": 2.35,
+    "era": "2011-20"
+  },
+  {
+    "name": "Black Mass",
+    "year": 2015,
+    "count": 234,
+    "runningTime": 123,
+    "rate": 1.9,
+    "era": "2011-20"
+  },
+  {
+    "name": "Legend",
+    "year": 2015,
+    "count": 155,
+    "runningTime": 131,
+    "rate": 1.18,
+    "era": "2011-20"
+  },
+  {
+    "name": "The Night Before",
+    "year": 2015,
+    "count": 150,
+    "runningTime": 101,
+    "rate": 1.49,
+    "era": "2011-20"
+  },
+  {
+    "name": "Free Fire",
+    "year": 2016,
+    "count": 240,
+    "runningTime": 90,
+    "rate": 2.67,
+    "era": "2011-20"
+  },
+  {
+    "name": "Bad Santa 2",
+    "year": 2016,
+    "count": 180,
+    "runningTime": 92,
+    "rate": 1.96,
+    "era": "2011-20"
+  },
+  {
+    "name": "Everybody Wants Some!!",
+    "year": 2016,
+    "count": 161,
+    "runningTime": 116,
+    "rate": 1.39,
+    "era": "2011-20"
+  },
+  {
+    "name": "Dirty Grandpa",
+    "year": 2016,
+    "count": 160,
+    "runningTime": 102,
+    "rate": 1.57,
+    "era": "2011-20"
+  },
+  {
+    "name": "Sausage Party",
+    "year": 2016,
+    "count": 160,
+    "runningTime": 89,
+    "rate": 1.8,
+    "era": "2011-20"
+  },
+  {
+    "name": "American Honey",
+    "year": 2016,
+    "count": 150,
+    "runningTime": 163,
+    "rate": 0.92,
+    "era": "2011-20"
+  },
+  {
+    "name": "Wheelman",
+    "year": 2017,
+    "count": 286,
+    "runningTime": 82,
+    "rate": 3.49,
+    "era": "2011-20"
+  },
+  {
+    "name": "All Eyez on Me",
+    "year": 2017,
+    "count": 210,
+    "runningTime": 140,
+    "rate": 1.5,
+    "era": "2011-20"
+  },
+  {
+    "name": "The Wall",
+    "year": 2017,
+    "count": 185,
+    "runningTime": 88,
+    "rate": 2.1,
+    "era": "2011-20"
+  },
+  {
+    "name": "Good Time",
+    "year": 2017,
+    "count": 160,
+    "runningTime": 101,
+    "rate": 1.58,
+    "era": "2011-20"
+  },
+  {
+    "name": "Mid90s",
+    "year": 2018,
+    "count": 171,
+    "runningTime": 85,
+    "rate": 2.01,
+    "era": "2011-20"
+  },
+  {
+    "name": "Sorry to Bother You",
+    "year": 2018,
+    "count": 160,
+    "runningTime": 112,
+    "rate": 1.43,
+    "era": "2011-20"
+  },
+  {
+    "name": "Uncut Gems",
+    "year": 2019,
+    "count": 506,
+    "runningTime": 135,
+    "rate": 3.75,
+    "era": "2011-20"
+  },
+  {
+    "name": "Skin",
+    "year": 2019,
+    "count": 200,
+    "runningTime": 110,
+    "rate": 1.82,
+    "era": "2011-20"
+  },
+  {
+    "name": "Dolemite Is My Name",
+    "year": 2019,
+    "count": 169,
+    "runningTime": 118,
+    "rate": 1.43,
+    "era": "2011-20"
+  },
+  {
+    "name": "Killerman",
+    "year": 2019,
+    "count": 169,
+    "runningTime": 112,
+    "rate": 1.51,
+    "era": "2011-20"
+  },
+  {
+    "name": "The Outpost",
+    "year": 2020,
+    "count": 355,
+    "runningTime": 123,
+    "rate": 2.89,
+    "era": "2011-20"
+  },
+  {
+    "name": "Infamous",
+    "year": 2020,
+    "count": 230,
+    "runningTime": 100,
+    "rate": 2.3,
+    "era": "2011-20"
+  },
+  {
+    "name": "Coffee & Kareem",
+    "year": 2020,
+    "count": 171,
+    "runningTime": 88,
+    "rate": 1.94,
+    "era": "2011-20"
+  },
+  {
+    "name": "All Day and a Night",
+    "year": 2020,
+    "count": 150,
+    "runningTime": 121,
+    "rate": 1.24,
+    "era": "2011-20"
+  },
+  {
+    "name": "Malcolm & Marie",
+    "year": 2021,
+    "count": 289,
+    "runningTime": 106,
+    "rate": 2.73,
+    "era": 2021
+  },
+  {
+    "name": "Small Engine Repair",
+    "year": 2021,
+    "count": 281,
+    "runningTime": 103,
+    "rate": 2.73,
+    "era": 2021
+  },
+  {
+    "name": "Cherry",
+    "year": 2021,
+    "count": 276,
+    "runningTime": 140,
+    "rate": 1.97,
+    "era": 2021
+  },
+  {
+    "name": "Silk Road",
+    "year": 2021,
+    "count": 177,
+    "runningTime": 112,
+    "rate": 1.58,
+    "era": 2021
+  }
+]
